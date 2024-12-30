@@ -1,0 +1,35 @@
+.box-container{
+    display: flex;
+    height: 100vh;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: start;
+    align-content: space-between;
+    
+}
+
+.box1{
+    background-color: blue;
+    width: 100px;
+    
+}
+
+
+.box2{
+    background-color: blue;
+    width: 200px;
+    
+}
+
+.box3{
+    background-color: blue;
+    width: 300px;
+    
+}
+
+
+.box4{
+    background-color: blue;
+    width: 400px;
+    
+}

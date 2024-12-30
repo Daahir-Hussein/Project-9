@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: blueviolet;
+    /* height: 100vh; */
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+}
+
+.box{
+    background-color: whitesmoke;
+    color: blueviolet;
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+}
+
+.box h3,h6{
+    text-align: center;
+}
+
+
+.box h3{
+    font-size: 1.3em;
+    padding: 20px;
+}
+
+
+.box h6{
+    font-size: 1em;
+}
+
+span{
+    font-size: 3em;
+}
+
+.box hr{
+    border: 1px grey solid;
+    margin-bottom: 20px;
+
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 10px;
+}
+
+
+
+.coin i{
+    font-size: 1.5em;
+    color: rgb(15, 243, 15);
+}
+
+p{
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+
+
+.button1{
+    background-color: rgb(110, 110, 237);
+    color: white;
+    width: 200px;
+    font-size: 1em;
+    text-align: center;
+    padding: 10px 30px;
+    margin-left: 50px;
+    margin-top: 235px;
+    border: none;
+    border-radius: 20px;
+}
+
+
+.button2{
+    background-color: rgb(110, 110, 237);
+    color: white;
+    width: 200px;
+    font-size: 1em;
+    text-align: center;
+    padding: 10px 30px;
+    margin-left: 50px;
+    margin-top: 130px;
+    border: none;
+    border-radius: 20px;
+}
+
+
+
+.button3{
+    background-color: rgb(110, 110, 237);
+    color: white;
+    width: 200px;
+    font-size: 1em;
+    text-align: center;
+    padding: 10px 30px;
+    margin-left: 50px;
+    margin-top: 130px;
+    border: none;
+    border-radius: 20px;
+}

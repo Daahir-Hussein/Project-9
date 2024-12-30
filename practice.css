@@ -1,0 +1,112 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+body{
+    background-color: rgb(238, 233, 233);
+}
+
+.box{
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 500px;
+    margin-top: 60px;
+    border-radius: 30px;
+}
+
+.box h1,h3{
+    text-align: center;
+}
+
+.box h1{
+    color: yellow;
+    font-size: 2.5em;
+    padding-top: 10px;
+}
+
+
+.box h3{
+    font-size: 1.3em;
+    padding: 9px 0;
+}
+span{
+    font-size: 2.5em;
+}
+
+.box hr{
+    border: 1px gray solid;
+    margin-bottom: 20px;
+}
+
+
+.icon{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.icon i{
+    font-size: 1.3em;
+    color: green;
+    text-align: center;
+}
+
+.icon p{
+    font-size: 1.8em;
+}
+
+.coin{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+
+icon2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.icon2 i{
+    font-size: 1.3em;
+    color: green;
+    text-align: center;
+}
+
+.icon2 p{
+    font-size: 1.8em;
+}
+
+.coin2{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+button{
+    background-color: yellow;
+    padding: 10px 30px;
+    border: none;
+    font-size: 1em;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-top: 250px;
+}
